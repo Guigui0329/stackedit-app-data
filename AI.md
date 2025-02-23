@@ -16,10 +16,9 @@
 | 链式推理，慢速思考 | 预测概率，快速响应 |
 
 
-
 ![输入图片说明](/imgs/2025-02-23/xppiSIjyhzZqj8sg.png)
 
 ![提示语示例](/imgs/2025-02-23/1Tilq5bWyVkF0D80.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNzg4Mzk5XX0=
+eyJoaXN0b3J5IjpbMTE4NDUzMTgwNSw0NjE3ODgzOTldfQ==
 -->
